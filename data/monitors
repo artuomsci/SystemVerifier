@@ -1,0 +1,9 @@
+id:83194769-1a73-4d6a-b90f-f12c90074e3d
+name:AOC G2460FQ
+input:A:HDMI_F
+input:B:DP_F
+input:C:DVI-I_F
+input:D:VGA_F
+input:E:C14
+pwr:22
+rule: E & (A | B | C | D)

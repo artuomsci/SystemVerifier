@@ -1,0 +1,7 @@
+id:d5877b61-c5f2-4d7b-a276-7561538bccdd
+name:Optoma GT1080
+input:A:HDMI_F
+input:B:HDMI_F
+input:C:C14
+pwr:233
+rule: C & (A | B)

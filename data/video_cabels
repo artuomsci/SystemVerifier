@@ -1,0 +1,151 @@
+//==========================================================
+
+id:64f12473-0c36-41be-9e01-0c70bd197ceb
+name:HDMI cabel 1.5 m
+input:A:HDMI_M
+input:B:HDMI_M
+rule: A & B
+
+id:57a6ea07-0080-432c-8f6b-1bdf7abfb631
+name:HDMI cabel 3 m
+input:A:HDMI_M
+input:B:HDMI_M
+rule: A & B
+
+id:6dda8276-5474-41e4-87ea-e7d036f35393
+name:HDMI cabel 5 m
+input:A:HDMI_M
+input:B:HDMI_M
+rule: A & B
+
+id:b4ef166f-da97-40c7-9e33-91a6030f125f
+name:HDMI cabel 10 m
+input:A:HDMI_M
+input:B:HDMI_M
+rule: A & B
+
+id:9580225f-ae65-4b1c-90ea-5c922d6837b7
+name:HDMI cabel 15 m
+input:A:HDMI_M
+input:B:HDMI_M
+rule: A & B
+
+id:4a643a8b-42cc-4bb8-9adf-0ddfdd9a2412
+name:HDMI cabel 20 m
+input:A:HDMI_M
+input:B:HDMI_M
+rule: A & B
+
+//==========================================================
+
+id:e2d2994d-25e2-4a50-8117-8bb1c053e089
+name:DP cabel 1.5 m
+input:A:DP_M
+input:B:DP_M
+rule: A & B
+
+id:3d95b71f-76da-4dde-8edb-acc2631424ea
+name:DP cabel 3 m
+input:A:DP_M
+input:B:DP_M
+rule: A & B
+
+id:f111fbae-6cb2-4049-8bb6-8344e4cbec1c
+name:DP cabel 5 m
+input:A:DP_M
+input:B:DP_M
+rule: A & B
+
+id:c0e50df1-5440-4480-94b3-2b00aba1f070
+name:DP cabel 10 m
+input:A:DP_M
+input:B:DP_M
+rule: A & B
+
+id:4296a28e-6e8b-402c-b7d9-9efc676d352b
+name:DP cabel 15 m
+input:A:DP_M
+input:B:DP_M
+rule: A & B
+
+id:05dbdb59-28d5-4c1f-8a94-1bc1ac0797a5
+name:DP cabel 20 m
+input:A:DP_M
+input:B:DP_M
+rule: A & B
+
+//==========================================================
+
+id:320c3ef2-66e8-495c-a660-53af5bc265ec
+name:DVI-D:HDMI cabel 1.5 m
+input:A:DVI-I_M
+input:B:HDMI_M
+rule: A & B
+
+id:41642717-00c7-4a1a-8621-c968619ad3a8
+name:DVI-D:HDMI cabel 3 m
+input:A:DVI-I_M
+input:B:HDMI_M
+rule: A & B
+
+id:64cff3dd-84db-4513-a197-10b8160c97f0
+name:DVI-D:HDMI cabel 5 m
+input:A:DVI-I_M
+input:B:HDMI_M
+rule: A & B
+
+id:152bcd39-ced5-4488-9d16-5c01a7e88e00
+name:DVI-D:HDMI cabel 10 m
+input:A:DVI-I_M
+input:B:HDMI_M
+rule: A & B
+
+id:7915d1e8-d969-43e7-a976-0ab0241c8b8e
+name:DVI-D:HDMI cabel 15 m
+input:A:DVI-I_M
+input:B:HDMI_M
+rule: A & B
+
+id:061b40bd-3250-434d-b9d1-f7a0e3d204d6
+name:DVI-D:HDMI cabel 20 m
+input:A:DVI-I_M
+input:B:HDMI_M
+rule: A & B
+
+//==========================================================
+
+id:bf716218-3bd3-4f3a-8399-8d48ec56a011
+name:DVI-D:HDMI cabel 1.5 m
+input:A:DVI-D_M
+input:B:HDMI_M
+rule: A & B
+
+id:55f19eac-6b4d-488c-89ae-638baa0417c3
+name:DVI-D:HDMI cabel 3 m
+input:A:DVI-D_M
+input:B:HDMI_M
+rule: A & B
+
+id:3a1c5a0f-a850-40db-a967-a52e92743f72
+name:DVI-D:HDMI cabel 5 m
+input:A:DVI-D_M
+input:B:HDMI_M
+rule: A & B
+
+id:bb02c15c-9297-48ee-9594-3e76e431ceb5
+name:DVI-D:HDMI cabel 10 m
+input:A:DVI-D_M
+input:B:HDMI_M
+rule: A & B
+
+id:c5192586-bfbe-49b5-ac31-fd0d055ff588
+name:DVI-D:HDMI cabel 15 m
+input:A:DVI-D_M
+input:B:HDMI_M
+rule: A & B
+
+id:904a26ad-26e5-4adc-bacc-afe4463ce77b
+name:DVI-D:HDMI cabel 20 m
+input:A:DVI-D_M
+input:B:HDMI_M
+rule: A & B

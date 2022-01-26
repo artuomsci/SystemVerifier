@@ -1,0 +1,27 @@
+id:9df2b2e1-f6b4-40f9-aeeb-5ff75b0f0dde
+name:UPS APC 3000VA
+input:A:C20
+input:B:C19
+input:C:C13
+input:D:C13
+input:E:C13
+input:F:C13
+input:G:C13
+input:H:C13
+input:I:C13
+input:J:C13
+rule: A & (B | C | D | E | F | G | H | I | J)
+
+id:469ddd32-490c-4c56-82e6-31c22cdf4383
+name:UPS APC 1500VA
+input:A:C20
+input:B:C19
+input:C:C13
+input:D:C13
+input:E:C13
+input:F:C13
+input:G:C13
+input:H:C13
+input:I:C13
+input:J:C13
+rule: A & (B | C | D | E | F | G | H | I | J)

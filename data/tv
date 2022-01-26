@@ -1,0 +1,9 @@
+id:931530e8-2483-11ea-8264-7f08a24f1aad
+name:TV OLED LG 55"
+input:A:HDMI_F
+input:B:HDMI_F
+input:C:HDMI_F
+input:D:HDMI_F
+input:E:CEE 7/7
+pwr:350
+rule: E & (A | B | C | D)

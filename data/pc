@@ -1,0 +1,33 @@
+id:66aef8b7-126c-4de5-9dcb-611d841645f2
+name:PC i7/4790K/32Gb/1Tb/GTX1080
+input:A:C14
+input:B:RJ45_F
+input:C:HDMI_F
+input:D:HDMI_F
+input:E:DP_F
+input:F:DP_F
+input:G:USB3.1A_F
+input:H:USB3.0A_F
+input:I:USB3.0A_F
+input:J:USB2.0A_F
+input:K:USB2.0A_F
+pwr:600
+rule: A & (B | C | D | E | F | G | H | I | J | K)
+
+id:853c1648-2489-11ea-984b-2bf8b57e36a9
+name:PC i7/4790K/32Gb/1Tb/GTX2080
+input:A:C14
+input:B:RJ45_F
+input:C:HDMI_F
+input:D:HDMI_F
+input:E:DP_F
+input:F:DP_F
+input:G:USB3.1A_F
+input:H:USB3.0A_F
+input:I:USB3.0A_F
+input:J:USB2.0A_F
+input:K:USB2.0A_F
+input:L:USB2.0A_F
+input:M:USB2.0A_F
+pwr:600
+rule: A

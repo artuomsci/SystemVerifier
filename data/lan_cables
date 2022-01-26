@@ -1,0 +1,47 @@
+id:8c731ca2-32a1-4825-8dff-8c281f523d8d
+name:Cable Cat6 0.5 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:cfbafcd7-a936-45fb-81bf-8e7c1a08baa3
+name:Cable Cat6 1.5 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:6e4ef04e-8fa0-48f8-b2f8-17ea84a0f53c
+name:Cable Cat6 2.0 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:874bdb59-fa69-437a-a4c1-724cd7247a83
+name:Cable Cat6 3.0 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:e8bc9b89-0229-4d8f-a67f-94495e735509
+name:Cable Cat6 5.0 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:e6cc82ae-ba58-437a-8de2-d63ad2116c53
+name:Cable Cat6 10.0 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:ba04a233-ec51-448c-a3c7-6c85cd441860
+name:Cable Cat6 15.0 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B
+
+id:07a221cd-c01f-4959-8918-d34e245d5ffa
+name:Cable Cat6 20.0 m
+input:A:RJ45_M
+input:B:RJ45_M
+rule: A & B

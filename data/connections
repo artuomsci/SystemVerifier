@@ -1,0 +1,101 @@
+id:db1aa1ce-d8d2-443f-83d3-ad130032a5b2
+name:HDMI_F:HDMI_M
+input:A:HDMI_F
+input:B:HDMI_M
+rule: A | B
+
+id:e144744e-76e7-4bca-a099-cf729b2e0a66
+name:DP_F:DP_M
+input:A:DP_F
+input:B:DP_M
+rule: A | B
+
+id:67ff657b-654d-4039-a63f-005b3e1e5a7e
+name:VGA_F:VGA_M
+input:A:VGA_F
+input:B:VGA_M
+rule: A | B
+
+id:908074da-6753-4351-a15d-f0b8aaa44489
+name:DVI-I_M:DVI-I_F
+input:A:DVI-I_M
+input:B:DVI-I_F
+rule: A | B
+
+id:45d43bf6-f93d-4bdd-bf48-81a29072c84f
+name:DVI-D_M:DVI-D_F
+input:A:DVI-D_M
+input:B:DVI-D_F
+rule: A | B
+
+id:007f9778-504f-4841-8b61-2459237c70a6
+name:C14:C13
+input:A:C14
+input:B:C13
+rule: A | B
+
+id:5904e7e4-32c8-4013-a2b8-e374965a5a59
+name:CEE 7/7:CEE 7/3
+input:A:CEE 7/7
+input:B:CEE 7/3
+rule: A | B
+
+id:7222049e-4df4-4cfe-a242-82ae69e48cd7
+name:C19:C20
+input:A:C19
+input:B:C20
+rule: A | B
+
+id:e89db5c8-b7bd-41cf-ad56-47cc8c0fe864
+name:RJ45_M:RJ45_F
+input:A:RJ45_M
+input:B:RJ45_F
+rule: A | B
+
+id:652c883e-a308-484b-b7cc-3c5268af35cc
+name:USB2.0A_M:USB2.0A_F
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A | B
+
+id:45e50614-4bc2-4ebe-ad35-a8eba065d5dd
+name:USB3.0A_M:USB3.0A_F
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A | B
+
+id:68255f7c-248b-11ea-a15e-2f166f674615
+name:USB3.1MicroB_F:USB3.1MicroB_M
+input:A:USB3.1MicroB_F
+input:B:USB3.1MicroB_M
+rule: A | B
+
+id:07c518ce-248c-11ea-badc-23ac74ad4d45
+name:USB3.0MicroB_F:USB3.0MicroB_M
+input:A:USB3.0MicroB_F
+input:B:USB3.0MicroB_M
+rule: A | B
+
+id:a4da0432-1fd0-41a1-b2e3-9ecf5e5f6b1c
+name:USB2.0B_M:USB2.0B_F
+input:A:USB2.0B_M
+input:B:USB2.0B_F
+rule: A | B
+
+id:e0f50140-2491-11ea-a85b-2391f86f56ce
+name:USB3.0A_M:USB3.1A_F
+input:A:USB3.0A_M
+input:B:USB3.1A_F
+rule: A | B
+
+id:98806b00-2493-11ea-ad9b-f324084a0c85
+name:Hirose6pin_M:Hirose6pin_F
+input:A:Hirose6pin_M
+input:B:Hirose6pin_F
+rule: A | B
+
+id:da19cd90-2493-11ea-913d-532f439bf0c5
+name:DN-5P1_F:DN-5P1_M
+input:A:DN-5P1_F
+input:B:DN-5P1_M
+rule: A | B

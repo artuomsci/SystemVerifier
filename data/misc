@@ -1,0 +1,20 @@
+id:5872d784-2487-11ea-80de-2becbfd8e7a9
+name:Mouse
+input:A:USB2.0A_M
+rule: A
+
+id:8d9c1c72-2487-11ea-82d6-1feae6cd8565
+name:Keyboard
+input:A:USB2.0A_M
+rule: A
+
+id:6e9b7682-2488-11ea-b0ac-7b0661bd64ee
+name:HASP key
+input:A:USB2.0A_M
+rule: A
+
+id:d9c39e92-248a-11ea-9dc9-b7571b5c3ae2
+name:Basler acA2000-165um
+input:A:USB3.0MicroB_F
+input:B:Hirose6pin_F
+rule: A & B

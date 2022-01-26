@@ -1,0 +1,291 @@
+//==========================================================
+
+id:53ee226d-f3e7-4170-8962-90ff27027f9d
+name:Power cabel 1.5 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+id:a626aaf7-2cf1-4cf2-be44-a81c01c334f7
+name:Power cabel 2.0 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+id:945f5325-03db-4a48-b1b2-7ea748d678bc
+name:Power cabel 3 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+id:61c27953-40e2-4920-b776-01df0eab5bf2
+name:Power cabel 5 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+id:6460efb8-d6a9-43e8-a048-bcfe5cd3d301
+name:Power cabel 10 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+id:9424cb3f-123a-4121-93a5-430d9521d3cb
+name:Power cabel 15 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+id:04cf6a69-c05a-440f-8fb2-69dda8df91c5
+name:Power cabel 20 m
+input:A:C13
+input:B:CEE 7/7
+rule: A & B
+
+//==========================================================
+
+id:ac3204f2-e251-4e35-a51b-3faf8699e992
+name:Power cabel 1.5 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+id:1a3da203-843f-4c03-943a-181cd4366e74
+name:Power cabel 2.0 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+id:818147a3-74ce-4126-a765-b4f8c51b6642
+name:Power cabel 3 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+id:81d42117-55be-43ba-9677-2ae73597b448
+name:Power cabel 5 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+id:d3e6e85a-5434-4ae2-9bc3-f51ecac9a7ef
+name:Power cabel 10 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+id:93973f4d-8fed-40c7-9d79-2da8b3d68a3c
+name:Power cabel 15 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+id:b6ef380e-ae65-4052-b694-4f1ff96471ef
+name:Power cabel 20 m
+input:A:C13
+input:B:C14
+rule: A & B
+
+//==========================================================
+
+id:49cc16e0-9d99-49c7-acba-e4fcd43d7d1a
+name:Power cabel 1.5 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+id:0f58ec17-b7ca-428e-a8d1-b378461650c3
+name:Power cabel 2.0 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+id:c4f7f737-8dbc-414f-ac9b-89803625655e
+name:Power cabel 3 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+id:ef9106e0-d7dd-462b-a480-efb8eb8a1d02
+name:Power cabel 5 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+id:6d8dc650-5d61-452e-98e0-9ee9873be8fd
+name:Power cabel 10 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+id:5ab5c007-2bda-4c1a-81c9-acde77955292
+name:Power cabel 15 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+id:4907dca2-ede9-4e7a-a28c-81511c9af4da
+name:Power cabel 20 m
+input:A:C19
+input:B:CEE 7/7
+rule: A & B
+
+//==========================================================
+
+id:da89d402-51c0-4691-b430-16578e2249dd
+name:Power cabel 1.5 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+id:d554d8cc-f912-440f-8852-542db22c4503
+name:Power cabel 2.0 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+id:5f95a7ba-584e-46dd-a7de-51cb460243cc
+name:Power cabel 3 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+id:c3e78064-ca53-4a4a-b022-028fff4e7c39
+name:Power cabel 5 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+id:84b4b36b-35d8-4849-b408-c4f89fc020a9
+name:Power cabel 10 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+id:ebd6c519-469a-44ff-9781-b96c0fc95082
+name:Power cabel 15 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+id:aee3a38e-f2a2-4688-bcc8-07c293d3bb3f
+name:Power cabel 20 m
+input:A:C19
+input:B:C20
+rule: A & B
+
+//==========================================================
+
+id:31f67f1c-24fc-433e-ad3e-c12adbb7fa65
+name:Power extender 1.5 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:9fd70aef-f819-4282-a198-7a02a7b13cbc
+name:Power extender 2.0 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:2474982a-5dc1-4d00-bf50-2623275ab5ba
+name:Power extender 3 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:763f1480-e8d0-4bfe-b7cb-e06cc99aef9e
+name:Power extender 5 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:861c4388-75a4-4fc5-8cf9-a615c28ef00b
+name:Power extender 10 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:14e433d8-60b6-41b9-9ff7-28e1ae2e8cc8
+name:Power extender 15 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:ef05d90f-6a5f-4f9f-8de5-c34a41058889
+name:Power extender 20 m
+input:A:CEE 7/7
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+//==========================================================
+
+id:c1a2f46e-4daf-49c2-b61f-20ff764f78a8
+name:Power extender 1.5 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:2795d51a-830c-41cc-9909-53f723992d12
+name:Power extender 2.0 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:9efa702a-4877-46e9-afc0-528ccbefa956
+name:Power extender 3 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:cefa1b2d-1a7d-4f5c-8e94-c45edea90baa
+name:Power extender 5 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:9dce64b4-d87c-4e8c-8ab7-7a522c94f296
+name:Power extender 10 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:d08700bf-724e-4543-aad0-e4daa731d395
+name:Power extender 15 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)
+
+id:774d3f43-5d7f-4671-a760-8e30f6d00653
+name:Power extender 20 m
+input:A:C14
+input:B:CEE 7/3
+input:C:CEE 7/3
+input:D:CEE 7/3
+rule: A & (B | C | D)

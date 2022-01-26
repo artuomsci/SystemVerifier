@@ -1,0 +1,5 @@
+id:dfe67198-2492-11ea-bb15-37e01f914a45
+name:Start cable for camera
+input:A:Hirose6pin_M
+input:B:DN-5P1_M
+rule: A & B

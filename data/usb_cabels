@@ -1,0 +1,115 @@
+//==========================================================
+
+id:0716e3a9-bf87-435f-85bc-a1c05cf21b05
+name:USB 2.0 passive extender 0.5 m
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A & B
+
+id:fcd9f172-fd5f-4bf4-9a86-76a34fc813e3
+name:USB 2.0 passive extender 1.5 m
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A & B
+
+id:37a56bdb-3980-4bda-bb73-200d88a86f63
+name:USB 2.0 passive extender 2.0 m
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A & B
+
+id:9df0a8ed-3413-4713-ae8b-380576c7b042
+name:USB 2.0 passive extender 3.0 m
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A & B
+
+id:156a1fd1-87c2-403a-8ab6-885c684ac9f5
+name:USB 2.0 passive extender 5.0 m
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A & B
+
+id:41dd3343-19d0-4347-b226-b759e4536844
+name:USB 2.0 passive extender 10.0 m
+input:A:USB2.0A_M
+input:B:USB2.0A_F
+rule: A & B
+
+//==========================================================
+
+id:a9c2c99c-6e0e-4798-953f-2d25813ec03c
+name:USB 3.0 active extender 0.5 m
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A & B
+
+id:da2b9edd-817c-4c74-b627-9b2d343494a2
+name:USB 3.0 active extender 1.5 m
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A & B
+
+id:ce095989-c7d5-43e9-9348-8e18dd739c36
+name:USB 3.0 active extender 2.0 m
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A & B
+
+id:7e2e39a6-03d8-4291-91ad-7841dab1cc6c
+name:USB 3.0 active extender 3.0 m
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A & B
+
+id:6d2f22d3-c28c-42b4-92f0-be47ed3f1c3a
+name:USB 3.0 active extender 5.0 m
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A & B
+
+id:3fffd667-00bb-47c2-ae96-f86b1c4c70a8
+name:USB 3.0 active extender 10.0 m
+input:A:USB3.0A_M
+input:B:USB3.0A_F
+rule: A & B
+
+id:ce50168e-2490-11ea-9609-cbff37104bfb
+name:USB 3.0 Basler hybrid (opto-electric) cable 10.0 m
+input:A:USB3.0MicroB_M
+input:B:USB3.0A_M
+rule: A & B
+
+//==========================================================
+
+id:eab55ebf-5608-42a3-b955-2dfa019225c7
+name:USB 2.0 cable 0.5 m
+input:A:USB2.0A_M
+input:B:USB2.0B_M
+rule: A & B
+
+id:9420c8a7-9181-4e30-8111-e8956c6e86fb
+name:USB 2.0 cable 1.5 m
+input:A:USB2.0A_M
+input:B:USB2.0B_M
+rule: A & B
+
+id:21000ccb-500c-4e3f-b337-7b0e4b940f71
+name:USB 2.0 cable 2.0 m
+input:A:USB2.0A_M
+input:B:USB2.0B_M
+rule: A & B
+
+id:8a4c7dab-b386-4d0f-a03f-1135878fa843
+name:USB 2.0 cable 3.0 m
+input:A:USB2.0A_M
+input:B:USB2.0B_M
+rule: A & B
+
+//==========================================================
+
+id:cd14a224-248d-11ea-a1da-2fd7c1813263
+name:USB 3.0(3.1) cable 0.15 m
+input:A:USB3.1MicroB_M
+input:B:USB3.1A_M
+rule: A & B

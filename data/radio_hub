@@ -1,0 +1,5 @@
+id:fd2070e4-0af8-4bb4-9ae0-cbae3d84da11
+name:Radio transmitter
+input:A:USB2.0B_F
+input:B:DN-5P1_F
+rule: A & B
